@@ -1,4 +1,4 @@
-# Aplikasi Web AI Text-to-Image (MERN Stack)
+# Genova Text-to-Image (MERN Stack)
 
 Aplikasi web fullstack yang didukung oleh AI untuk mengubah **teks (prompt)** menjadi **gambar**. Dibangun dengan stack **MongoDB, Express, React, dan Node.js (MERN)** serta terintegrasi dengan model AI generatif gambar seperti ClipDrop.
 
